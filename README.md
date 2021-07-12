@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on [oracle-help.com](oracle-help.com)
 
-- 💬 Ask me about **Oracle DBA** Cloud ***
+- 💬 Ask me about **Oracle DBA** and Multi Cloud ***
 
 - 📫 How to reach me **xsmohitsharma@hotmail.com**
 
